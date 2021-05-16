@@ -18,9 +18,15 @@ setupAlan() {
 ```
 
 ## ScreenShot
-![image](https://user-images.githubusercontent.com/56160262/118402921-a5996380-b689-11eb-8b92-4a59ce401946.png)
+![WhatsApp Image 2021-05-16 at 21 06 14 (1)](https://user-images.githubusercontent.com/56160262/118403224-1b51ff00-b68b-11eb-8754-16d8d2fdfcce.jpeg)
+![WhatsApp Image 2021-05-16 at 21 06 14](https://user-images.githubusercontent.com/56160262/118403226-1db45900-b68b-11eb-8255-e7a3beb083e8.jpeg)
 
-![image](https://user-images.githubusercontent.com/56160262/118402930-b518ac80-b689-11eb-91f0-392a0a8fd2dc.png)
+## Demo
+Ps:- you cant be able to hear the audio but its Playing xD
+
+https://user-images.githubusercontent.com/56160262/118403344-9d422800-b68b-11eb-94d3-d677450ba7ac.mp4
+
+
 
 ## Documentation
 Want to create a voice assistant for your app? To get started with Alan Studio Read to this:-
