@@ -1,16 +1,40 @@
-# ai_radio
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-This project is a starting point for a Flutter application.
+  
+## Usage/Examples
 
-A few resources to get you started if this is your first Flutter project:
+```javascript
+import Component from 'my-project'
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+function App() {
+  return <Component />
+}
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+  
+## Demo
+
+Insert gif or link to demo
+
+  
+## Appendix
+
+Any additional information goes here
+
+  
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+  
