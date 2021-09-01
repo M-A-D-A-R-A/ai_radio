@@ -37,11 +37,6 @@ question(
 );
 
 question(
-    'I (would|will) (like to|) see you $(Q again|later)',
-    reply('See you $(Q again|later)'),
-);
-
-question(
     '(Who|What) are you',
     reply(
         'I\'m Alan, your virtual agent',
@@ -191,10 +186,6 @@ question(
     reply('Yes, of course we are friends'),
 );
 
-question(
-    'Where do you work',
-    reply('I can work anywhere there is a device capable of supporting me'),
-);
 
 question(
     'Where are you from',
@@ -509,10 +500,6 @@ question(
     ),
 );
 
-question(
-    'I\'m goind to bed',
-    reply('(OK|) good night'),
-);
 
 question(
     'Do you want (something|) to eat',
